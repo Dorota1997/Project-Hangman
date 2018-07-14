@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace HangMan
 {
-    public partial class Form1 : Form
+    public partial class frmHang : Form
     {
-        public Form1()
+        public frmHang()
         {
             InitializeComponent();
         }
