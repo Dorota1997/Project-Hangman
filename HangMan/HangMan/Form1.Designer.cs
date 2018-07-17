@@ -65,13 +65,14 @@
             this.button33 = new System.Windows.Forms.Button();
             this.button34 = new System.Windows.Forms.Button();
             this.lblResult = new System.Windows.Forms.Label();
+            this.lblShowWord = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.HangImage)).BeginInit();
             this.SuspendLayout();
             // 
             // HangImage
             // 
             this.HangImage.Image = global::HangMan.Properties.Resources.Hang1;
-            this.HangImage.Location = new System.Drawing.Point(89, 15);
+            this.HangImage.Location = new System.Drawing.Point(89, 3);
             this.HangImage.Name = "HangImage";
             this.HangImage.Size = new System.Drawing.Size(74, 200);
             this.HangImage.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -472,12 +473,21 @@
             this.lblResult.Size = new System.Drawing.Size(0, 13);
             this.lblResult.TabIndex = 45;
             // 
+            // lblShowWord
+            // 
+            this.lblShowWord.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.lblShowWord.Location = new System.Drawing.Point(86, 218);
+            this.lblShowWord.Name = "lblShowWord";
+            this.lblShowWord.Size = new System.Drawing.Size(201, 35);
+            this.lblShowWord.TabIndex = 46;
+            // 
             // frmHang
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.ClientSize = new System.Drawing.Size(494, 342);
+            this.Controls.Add(this.lblShowWord);
             this.Controls.Add(this.lblResult);
             this.Controls.Add(this.button34);
             this.Controls.Add(this.button33);
@@ -563,6 +573,7 @@
         private System.Windows.Forms.Button button33;
         private System.Windows.Forms.Button button34;
         private System.Windows.Forms.Label lblResult;
+        private System.Windows.Forms.Label lblShowWord;
     }
 }
 

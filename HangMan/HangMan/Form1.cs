@@ -22,6 +22,10 @@ namespace HangMan
 
         private string[] words;
 
+        private string current = "";
+
+        private string copyCurrent = "";
+
         public frmHang()
         {
             InitializeComponent();
@@ -29,13 +33,47 @@ namespace HangMan
 
         private void loadwords()
         {
-            string[] readText = File.ReadAllLines("CommonWords.csv");
+            char[] delimiterChars = { ',' };
+            string[] readText = File.ReadAllLines("CommonWords.txt");
+            words = new string[readText.Length];
+            int index = 0;
+
             foreach (string s in readText)
             {
+                string[] line = s.Split(delimiterChars);
+                words[index++] = line[0];
+            }
+            int end = 0;
 
+        }
+
+        private void setupWordChoice()
+        {
+            wrongGuesses = 0;
+            HangImage.Image = hangImages[wrongGuesses];
+            int guessIndex = (new Random()).Next(words.Length);
+            current = words[guessIndex];
+            copyCurrent = "";
+            for (int index = 0; index < current.Length; index++ )
+            {
+                copyCurrent += "_";
+            }
+            displayCopy();
+        }
+
+        private void displayCopy()
+        {
+            for (int index = 0; index < copyCurrent.Length; index++)
+            {
+                lblShowWord.Text += copyCurrent.Substring(index, 1);
+                lblShowWord.Text += " ";
             }
         }
 
+        private void updateCopy(char guess)
+        {
+
+        }
 
         private void guessClick(object sender, EventArgs e)
         {
@@ -54,6 +92,7 @@ namespace HangMan
         private void frmHang_Load(object sender, EventArgs e)
         {
             loadwords();
+            setupWordChoice();
         }
     }
 }
