@@ -30,40 +30,40 @@
         {
             this.HangImage = new System.Windows.Forms.PictureBox();
             this.cmdA = new System.Windows.Forms.Button();
-            this.button9 = new System.Windows.Forms.Button();
-            this.button10 = new System.Windows.Forms.Button();
-            this.button11 = new System.Windows.Forms.Button();
-            this.button12 = new System.Windows.Forms.Button();
-            this.button13 = new System.Windows.Forms.Button();
-            this.button14 = new System.Windows.Forms.Button();
-            this.button15 = new System.Windows.Forms.Button();
-            this.button16 = new System.Windows.Forms.Button();
-            this.button17 = new System.Windows.Forms.Button();
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
-            this.button4 = new System.Windows.Forms.Button();
-            this.button5 = new System.Windows.Forms.Button();
-            this.button6 = new System.Windows.Forms.Button();
-            this.button7 = new System.Windows.Forms.Button();
-            this.button8 = new System.Windows.Forms.Button();
-            this.button19 = new System.Windows.Forms.Button();
-            this.button18 = new System.Windows.Forms.Button();
-            this.button20 = new System.Windows.Forms.Button();
-            this.button21 = new System.Windows.Forms.Button();
-            this.button22 = new System.Windows.Forms.Button();
-            this.button23 = new System.Windows.Forms.Button();
-            this.button24 = new System.Windows.Forms.Button();
-            this.button25 = new System.Windows.Forms.Button();
-            this.button26 = new System.Windows.Forms.Button();
-            this.button27 = new System.Windows.Forms.Button();
-            this.button28 = new System.Windows.Forms.Button();
-            this.button29 = new System.Windows.Forms.Button();
-            this.button30 = new System.Windows.Forms.Button();
-            this.button31 = new System.Windows.Forms.Button();
-            this.button32 = new System.Windows.Forms.Button();
-            this.button33 = new System.Windows.Forms.Button();
-            this.button34 = new System.Windows.Forms.Button();
+            this.cmdG = new System.Windows.Forms.Button();
+            this.cmdF = new System.Windows.Forms.Button();
+            this.cmdĘ = new System.Windows.Forms.Button();
+            this.cmdE = new System.Windows.Forms.Button();
+            this.cmdD = new System.Windows.Forms.Button();
+            this.cmdĆ = new System.Windows.Forms.Button();
+            this.cmdC = new System.Windows.Forms.Button();
+            this.cmdB = new System.Windows.Forms.Button();
+            this.cmdĄ = new System.Windows.Forms.Button();
+            this.cmdI = new System.Windows.Forms.Button();
+            this.cmdJ = new System.Windows.Forms.Button();
+            this.cmdK = new System.Windows.Forms.Button();
+            this.cmdL = new System.Windows.Forms.Button();
+            this.cmdŁ = new System.Windows.Forms.Button();
+            this.cmdM = new System.Windows.Forms.Button();
+            this.cmdN = new System.Windows.Forms.Button();
+            this.cmdŃ = new System.Windows.Forms.Button();
+            this.cmdH = new System.Windows.Forms.Button();
+            this.cmdR = new System.Windows.Forms.Button();
+            this.cmdQ = new System.Windows.Forms.Button();
+            this.cmdP = new System.Windows.Forms.Button();
+            this.cmdó = new System.Windows.Forms.Button();
+            this.cmdO = new System.Windows.Forms.Button();
+            this.cmdV = new System.Windows.Forms.Button();
+            this.cmdU = new System.Windows.Forms.Button();
+            this.cmdT = new System.Windows.Forms.Button();
+            this.cmdŚ = new System.Windows.Forms.Button();
+            this.cmdS = new System.Windows.Forms.Button();
+            this.cmdŹ = new System.Windows.Forms.Button();
+            this.cmdZ = new System.Windows.Forms.Button();
+            this.cmdY = new System.Windows.Forms.Button();
+            this.cmdX = new System.Windows.Forms.Button();
+            this.cmdW = new System.Windows.Forms.Button();
+            this.cmdŻ = new System.Windows.Forms.Button();
             this.lblResult = new System.Windows.Forms.Label();
             this.lblShowWord = new System.Windows.Forms.Label();
             this.button35 = new System.Windows.Forms.Button();
@@ -92,413 +92,413 @@
             this.cmdA.UseVisualStyleBackColor = true;
             this.cmdA.Click += new System.EventHandler(this.guessClick);
             // 
-            // button9
-            // 
-            this.button9.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.button9.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.button9.Location = new System.Drawing.Point(231, 263);
-            this.button9.Name = "button9";
-            this.button9.Size = new System.Drawing.Size(19, 28);
-            this.button9.TabIndex = 10;
-            this.button9.Text = "g";
-            this.button9.UseVisualStyleBackColor = true;
-            this.button9.Click += new System.EventHandler(this.guessClick);
-            // 
-            // button10
-            // 
-            this.button10.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.button10.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.button10.Location = new System.Drawing.Point(215, 263);
-            this.button10.Name = "button10";
-            this.button10.Size = new System.Drawing.Size(19, 28);
-            this.button10.TabIndex = 11;
-            this.button10.Text = "f";
-            this.button10.UseVisualStyleBackColor = true;
-            this.button10.Click += new System.EventHandler(this.guessClick);
-            // 
-            // button11
-            // 
-            this.button11.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.button11.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.button11.Location = new System.Drawing.Point(199, 263);
-            this.button11.Name = "button11";
-            this.button11.Size = new System.Drawing.Size(19, 28);
-            this.button11.TabIndex = 12;
-            this.button11.Text = "ę";
-            this.button11.UseVisualStyleBackColor = true;
-            this.button11.Click += new System.EventHandler(this.guessClick);
-            // 
-            // button12
-            // 
-            this.button12.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.button12.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.button12.Location = new System.Drawing.Point(184, 263);
-            this.button12.Name = "button12";
-            this.button12.Size = new System.Drawing.Size(19, 28);
-            this.button12.TabIndex = 13;
-            this.button12.Text = "e";
-            this.button12.UseVisualStyleBackColor = true;
-            this.button12.Click += new System.EventHandler(this.guessClick);
-            // 
-            // button13
-            // 
-            this.button13.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.button13.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.button13.Location = new System.Drawing.Point(168, 263);
-            this.button13.Name = "button13";
-            this.button13.Size = new System.Drawing.Size(19, 28);
-            this.button13.TabIndex = 14;
-            this.button13.Text = "d";
-            this.button13.UseVisualStyleBackColor = true;
-            this.button13.Click += new System.EventHandler(this.guessClick);
-            // 
-            // button14
-            // 
-            this.button14.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.button14.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.button14.Location = new System.Drawing.Point(152, 263);
-            this.button14.Name = "button14";
-            this.button14.Size = new System.Drawing.Size(19, 28);
-            this.button14.TabIndex = 15;
-            this.button14.Text = "ć";
-            this.button14.UseVisualStyleBackColor = true;
-            this.button14.Click += new System.EventHandler(this.guessClick);
-            // 
-            // button15
-            // 
-            this.button15.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.button15.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.button15.Location = new System.Drawing.Point(136, 263);
-            this.button15.Name = "button15";
-            this.button15.Size = new System.Drawing.Size(19, 28);
-            this.button15.TabIndex = 16;
-            this.button15.Text = "c";
-            this.button15.UseVisualStyleBackColor = true;
-            this.button15.Click += new System.EventHandler(this.guessClick);
-            // 
-            // button16
-            // 
-            this.button16.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.button16.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.button16.Location = new System.Drawing.Point(120, 263);
-            this.button16.Name = "button16";
-            this.button16.Size = new System.Drawing.Size(19, 28);
-            this.button16.TabIndex = 17;
-            this.button16.Text = "b";
-            this.button16.UseVisualStyleBackColor = true;
-            this.button16.Click += new System.EventHandler(this.guessClick);
-            // 
-            // button17
-            // 
-            this.button17.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.button17.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.button17.Location = new System.Drawing.Point(104, 263);
-            this.button17.Name = "button17";
-            this.button17.Size = new System.Drawing.Size(19, 28);
-            this.button17.TabIndex = 18;
-            this.button17.Text = "ą";
-            this.button17.UseVisualStyleBackColor = true;
-            this.button17.Click += new System.EventHandler(this.guessClick);
-            // 
-            // button1
-            // 
-            this.button1.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.button1.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.button1.Location = new System.Drawing.Point(262, 263);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(19, 28);
-            this.button1.TabIndex = 28;
-            this.button1.Text = "i";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.guessClick);
-            // 
-            // button2
-            // 
-            this.button2.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.button2.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.button2.Location = new System.Drawing.Point(278, 263);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(19, 28);
-            this.button2.TabIndex = 27;
-            this.button2.Text = "j";
-            this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.guessClick);
-            // 
-            // button3
-            // 
-            this.button3.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.button3.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.button3.Location = new System.Drawing.Point(294, 263);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(19, 28);
-            this.button3.TabIndex = 26;
-            this.button3.Text = "k";
-            this.button3.UseVisualStyleBackColor = true;
-            this.button3.Click += new System.EventHandler(this.guessClick);
-            // 
-            // button4
-            // 
-            this.button4.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.button4.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.button4.Location = new System.Drawing.Point(310, 263);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(19, 28);
-            this.button4.TabIndex = 25;
-            this.button4.Text = "l";
-            this.button4.UseVisualStyleBackColor = true;
-            this.button4.Click += new System.EventHandler(this.guessClick);
-            // 
-            // button5
-            // 
-            this.button5.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.button5.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.button5.Location = new System.Drawing.Point(326, 263);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(19, 28);
-            this.button5.TabIndex = 24;
-            this.button5.Text = "ł";
-            this.button5.UseVisualStyleBackColor = true;
-            this.button5.Click += new System.EventHandler(this.guessClick);
-            // 
-            // button6
-            // 
-            this.button6.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.button6.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.button6.Location = new System.Drawing.Point(341, 263);
-            this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(19, 28);
-            this.button6.TabIndex = 23;
-            this.button6.Text = "m";
-            this.button6.UseVisualStyleBackColor = true;
-            this.button6.Click += new System.EventHandler(this.guessClick);
-            // 
-            // button7
-            // 
-            this.button7.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.button7.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.button7.Location = new System.Drawing.Point(357, 263);
-            this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(19, 28);
-            this.button7.TabIndex = 22;
-            this.button7.Text = "n";
-            this.button7.UseVisualStyleBackColor = true;
-            this.button7.Click += new System.EventHandler(this.guessClick);
-            // 
-            // button8
-            // 
-            this.button8.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.button8.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.button8.Location = new System.Drawing.Point(89, 297);
-            this.button8.Name = "button8";
-            this.button8.Size = new System.Drawing.Size(19, 28);
-            this.button8.TabIndex = 21;
-            this.button8.Text = "ń";
-            this.button8.UseVisualStyleBackColor = true;
-            this.button8.Click += new System.EventHandler(this.guessClick);
-            // 
-            // button19
-            // 
-            this.button19.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.button19.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.button19.Location = new System.Drawing.Point(246, 263);
-            this.button19.Name = "button19";
-            this.button19.Size = new System.Drawing.Size(19, 28);
-            this.button19.TabIndex = 19;
-            this.button19.Text = "h";
-            this.button19.UseVisualStyleBackColor = true;
-            this.button19.Click += new System.EventHandler(this.guessClick);
-            // 
-            // button18
-            // 
-            this.button18.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.button18.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.button18.Location = new System.Drawing.Point(167, 297);
-            this.button18.Name = "button18";
-            this.button18.Size = new System.Drawing.Size(19, 28);
-            this.button18.TabIndex = 29;
-            this.button18.Text = "r";
-            this.button18.UseVisualStyleBackColor = true;
-            this.button18.Click += new System.EventHandler(this.guessClick);
-            // 
-            // button20
-            // 
-            this.button20.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.button20.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.button20.Location = new System.Drawing.Point(151, 297);
-            this.button20.Name = "button20";
-            this.button20.Size = new System.Drawing.Size(19, 28);
-            this.button20.TabIndex = 30;
-            this.button20.Text = "q";
-            this.button20.UseVisualStyleBackColor = true;
-            this.button20.Click += new System.EventHandler(this.guessClick);
-            // 
-            // button21
-            // 
-            this.button21.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.button21.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.button21.Location = new System.Drawing.Point(135, 297);
-            this.button21.Name = "button21";
-            this.button21.Size = new System.Drawing.Size(19, 28);
-            this.button21.TabIndex = 31;
-            this.button21.Text = "p";
-            this.button21.UseVisualStyleBackColor = true;
-            this.button21.Click += new System.EventHandler(this.guessClick);
-            // 
-            // button22
-            // 
-            this.button22.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.button22.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.button22.Location = new System.Drawing.Point(120, 297);
-            this.button22.Name = "button22";
-            this.button22.Size = new System.Drawing.Size(19, 28);
-            this.button22.TabIndex = 32;
-            this.button22.Text = "ó";
-            this.button22.UseVisualStyleBackColor = true;
-            this.button22.Click += new System.EventHandler(this.guessClick);
-            // 
-            // button23
-            // 
-            this.button23.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.button23.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.button23.Location = new System.Drawing.Point(104, 297);
-            this.button23.Name = "button23";
-            this.button23.Size = new System.Drawing.Size(19, 28);
-            this.button23.TabIndex = 33;
-            this.button23.Text = "o";
-            this.button23.UseVisualStyleBackColor = true;
-            this.button23.Click += new System.EventHandler(this.guessClick);
-            // 
-            // button24
-            // 
-            this.button24.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.button24.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.button24.Location = new System.Drawing.Point(246, 297);
-            this.button24.Name = "button24";
-            this.button24.Size = new System.Drawing.Size(19, 28);
-            this.button24.TabIndex = 34;
-            this.button24.Text = "v";
-            this.button24.UseVisualStyleBackColor = true;
-            this.button24.Click += new System.EventHandler(this.guessClick);
-            // 
-            // button25
-            // 
-            this.button25.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.button25.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.button25.Location = new System.Drawing.Point(230, 297);
-            this.button25.Name = "button25";
-            this.button25.Size = new System.Drawing.Size(19, 28);
-            this.button25.TabIndex = 35;
-            this.button25.Text = "u";
-            this.button25.UseVisualStyleBackColor = true;
-            this.button25.Click += new System.EventHandler(this.guessClick);
-            // 
-            // button26
-            // 
-            this.button26.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.button26.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.button26.Location = new System.Drawing.Point(214, 297);
-            this.button26.Name = "button26";
-            this.button26.Size = new System.Drawing.Size(19, 28);
-            this.button26.TabIndex = 36;
-            this.button26.Text = "t";
-            this.button26.UseVisualStyleBackColor = true;
-            this.button26.Click += new System.EventHandler(this.guessClick);
-            // 
-            // button27
-            // 
-            this.button27.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.button27.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.button27.Location = new System.Drawing.Point(199, 297);
-            this.button27.Name = "button27";
-            this.button27.Size = new System.Drawing.Size(19, 28);
-            this.button27.TabIndex = 37;
-            this.button27.Text = "ś";
-            this.button27.UseVisualStyleBackColor = true;
-            this.button27.Click += new System.EventHandler(this.guessClick);
-            // 
-            // button28
-            // 
-            this.button28.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.button28.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.button28.Location = new System.Drawing.Point(183, 297);
-            this.button28.Name = "button28";
-            this.button28.Size = new System.Drawing.Size(19, 28);
-            this.button28.TabIndex = 38;
-            this.button28.Text = "s";
-            this.button28.UseVisualStyleBackColor = true;
-            this.button28.Click += new System.EventHandler(this.guessClick);
-            // 
-            // button29
-            // 
-            this.button29.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.button29.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.button29.Location = new System.Drawing.Point(325, 297);
-            this.button29.Name = "button29";
-            this.button29.Size = new System.Drawing.Size(19, 28);
-            this.button29.TabIndex = 39;
-            this.button29.Text = "ź";
-            this.button29.UseVisualStyleBackColor = true;
-            this.button29.Click += new System.EventHandler(this.guessClick);
-            // 
-            // button30
-            // 
-            this.button30.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.button30.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.button30.Location = new System.Drawing.Point(309, 297);
-            this.button30.Name = "button30";
-            this.button30.Size = new System.Drawing.Size(19, 28);
-            this.button30.TabIndex = 40;
-            this.button30.Text = "z";
-            this.button30.UseVisualStyleBackColor = true;
-            this.button30.Click += new System.EventHandler(this.guessClick);
-            // 
-            // button31
-            // 
-            this.button31.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.button31.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.button31.Location = new System.Drawing.Point(293, 297);
-            this.button31.Name = "button31";
-            this.button31.Size = new System.Drawing.Size(19, 28);
-            this.button31.TabIndex = 41;
-            this.button31.Text = "y";
-            this.button31.UseVisualStyleBackColor = true;
-            this.button31.Click += new System.EventHandler(this.guessClick);
-            // 
-            // button32
-            // 
-            this.button32.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.button32.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.button32.Location = new System.Drawing.Point(277, 297);
-            this.button32.Name = "button32";
-            this.button32.Size = new System.Drawing.Size(19, 28);
-            this.button32.TabIndex = 42;
-            this.button32.Text = "x";
-            this.button32.UseVisualStyleBackColor = true;
-            this.button32.Click += new System.EventHandler(this.guessClick);
-            // 
-            // button33
-            // 
-            this.button33.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.button33.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.button33.Location = new System.Drawing.Point(261, 297);
-            this.button33.Name = "button33";
-            this.button33.Size = new System.Drawing.Size(19, 28);
-            this.button33.TabIndex = 43;
-            this.button33.Text = "w";
-            this.button33.UseVisualStyleBackColor = true;
-            this.button33.Click += new System.EventHandler(this.guessClick);
-            // 
-            // button34
-            // 
-            this.button34.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.button34.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.button34.Location = new System.Drawing.Point(341, 297);
-            this.button34.Name = "button34";
-            this.button34.Size = new System.Drawing.Size(19, 28);
-            this.button34.TabIndex = 44;
-            this.button34.Text = "ż";
-            this.button34.UseVisualStyleBackColor = true;
-            this.button34.Click += new System.EventHandler(this.guessClick);
+            // cmdG
+            // 
+            this.cmdG.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.cmdG.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
+            this.cmdG.Location = new System.Drawing.Point(231, 263);
+            this.cmdG.Name = "cmdG";
+            this.cmdG.Size = new System.Drawing.Size(19, 28);
+            this.cmdG.TabIndex = 10;
+            this.cmdG.Text = "g";
+            this.cmdG.UseVisualStyleBackColor = true;
+            this.cmdG.Click += new System.EventHandler(this.guessClick);
+            // 
+            // cmdF
+            // 
+            this.cmdF.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.cmdF.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
+            this.cmdF.Location = new System.Drawing.Point(215, 263);
+            this.cmdF.Name = "cmdF";
+            this.cmdF.Size = new System.Drawing.Size(19, 28);
+            this.cmdF.TabIndex = 11;
+            this.cmdF.Text = "f";
+            this.cmdF.UseVisualStyleBackColor = true;
+            this.cmdF.Click += new System.EventHandler(this.guessClick);
+            // 
+            // cmdĘ
+            // 
+            this.cmdĘ.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.cmdĘ.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
+            this.cmdĘ.Location = new System.Drawing.Point(199, 263);
+            this.cmdĘ.Name = "cmdĘ";
+            this.cmdĘ.Size = new System.Drawing.Size(19, 28);
+            this.cmdĘ.TabIndex = 12;
+            this.cmdĘ.Text = "ę";
+            this.cmdĘ.UseVisualStyleBackColor = true;
+            this.cmdĘ.Click += new System.EventHandler(this.guessClick);
+            // 
+            // cmdE
+            // 
+            this.cmdE.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.cmdE.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
+            this.cmdE.Location = new System.Drawing.Point(184, 263);
+            this.cmdE.Name = "cmdE";
+            this.cmdE.Size = new System.Drawing.Size(19, 28);
+            this.cmdE.TabIndex = 13;
+            this.cmdE.Text = "e";
+            this.cmdE.UseVisualStyleBackColor = true;
+            this.cmdE.Click += new System.EventHandler(this.guessClick);
+            // 
+            // cmdD
+            // 
+            this.cmdD.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.cmdD.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
+            this.cmdD.Location = new System.Drawing.Point(168, 263);
+            this.cmdD.Name = "cmdD";
+            this.cmdD.Size = new System.Drawing.Size(19, 28);
+            this.cmdD.TabIndex = 14;
+            this.cmdD.Text = "d";
+            this.cmdD.UseVisualStyleBackColor = true;
+            this.cmdD.Click += new System.EventHandler(this.guessClick);
+            // 
+            // cmdĆ
+            // 
+            this.cmdĆ.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.cmdĆ.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
+            this.cmdĆ.Location = new System.Drawing.Point(152, 263);
+            this.cmdĆ.Name = "cmdĆ";
+            this.cmdĆ.Size = new System.Drawing.Size(19, 28);
+            this.cmdĆ.TabIndex = 15;
+            this.cmdĆ.Text = "ć";
+            this.cmdĆ.UseVisualStyleBackColor = true;
+            this.cmdĆ.Click += new System.EventHandler(this.guessClick);
+            // 
+            // cmdC
+            // 
+            this.cmdC.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.cmdC.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
+            this.cmdC.Location = new System.Drawing.Point(136, 263);
+            this.cmdC.Name = "cmdC";
+            this.cmdC.Size = new System.Drawing.Size(19, 28);
+            this.cmdC.TabIndex = 16;
+            this.cmdC.Text = "c";
+            this.cmdC.UseVisualStyleBackColor = true;
+            this.cmdC.Click += new System.EventHandler(this.guessClick);
+            // 
+            // cmdB
+            // 
+            this.cmdB.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.cmdB.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
+            this.cmdB.Location = new System.Drawing.Point(120, 263);
+            this.cmdB.Name = "cmdB";
+            this.cmdB.Size = new System.Drawing.Size(19, 28);
+            this.cmdB.TabIndex = 17;
+            this.cmdB.Text = "b";
+            this.cmdB.UseVisualStyleBackColor = true;
+            this.cmdB.Click += new System.EventHandler(this.guessClick);
+            // 
+            // cmdĄ
+            // 
+            this.cmdĄ.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.cmdĄ.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
+            this.cmdĄ.Location = new System.Drawing.Point(104, 263);
+            this.cmdĄ.Name = "cmdĄ";
+            this.cmdĄ.Size = new System.Drawing.Size(19, 28);
+            this.cmdĄ.TabIndex = 18;
+            this.cmdĄ.Text = "ą";
+            this.cmdĄ.UseVisualStyleBackColor = true;
+            this.cmdĄ.Click += new System.EventHandler(this.guessClick);
+            // 
+            // cmdI
+            // 
+            this.cmdI.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.cmdI.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
+            this.cmdI.Location = new System.Drawing.Point(262, 263);
+            this.cmdI.Name = "cmdI";
+            this.cmdI.Size = new System.Drawing.Size(19, 28);
+            this.cmdI.TabIndex = 28;
+            this.cmdI.Text = "i";
+            this.cmdI.UseVisualStyleBackColor = true;
+            this.cmdI.Click += new System.EventHandler(this.guessClick);
+            // 
+            // cmdJ
+            // 
+            this.cmdJ.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.cmdJ.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
+            this.cmdJ.Location = new System.Drawing.Point(278, 263);
+            this.cmdJ.Name = "cmdJ";
+            this.cmdJ.Size = new System.Drawing.Size(19, 28);
+            this.cmdJ.TabIndex = 27;
+            this.cmdJ.Text = "j";
+            this.cmdJ.UseVisualStyleBackColor = true;
+            this.cmdJ.Click += new System.EventHandler(this.guessClick);
+            // 
+            // cmdK
+            // 
+            this.cmdK.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.cmdK.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
+            this.cmdK.Location = new System.Drawing.Point(294, 263);
+            this.cmdK.Name = "cmdK";
+            this.cmdK.Size = new System.Drawing.Size(19, 28);
+            this.cmdK.TabIndex = 26;
+            this.cmdK.Text = "k";
+            this.cmdK.UseVisualStyleBackColor = true;
+            this.cmdK.Click += new System.EventHandler(this.guessClick);
+            // 
+            // cmdL
+            // 
+            this.cmdL.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.cmdL.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
+            this.cmdL.Location = new System.Drawing.Point(310, 263);
+            this.cmdL.Name = "cmdL";
+            this.cmdL.Size = new System.Drawing.Size(19, 28);
+            this.cmdL.TabIndex = 25;
+            this.cmdL.Text = "l";
+            this.cmdL.UseVisualStyleBackColor = true;
+            this.cmdL.Click += new System.EventHandler(this.guessClick);
+            // 
+            // cmdŁ
+            // 
+            this.cmdŁ.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.cmdŁ.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
+            this.cmdŁ.Location = new System.Drawing.Point(326, 263);
+            this.cmdŁ.Name = "cmdŁ";
+            this.cmdŁ.Size = new System.Drawing.Size(19, 28);
+            this.cmdŁ.TabIndex = 24;
+            this.cmdŁ.Text = "ł";
+            this.cmdŁ.UseVisualStyleBackColor = true;
+            this.cmdŁ.Click += new System.EventHandler(this.guessClick);
+            // 
+            // cmdM
+            // 
+            this.cmdM.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.cmdM.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
+            this.cmdM.Location = new System.Drawing.Point(341, 263);
+            this.cmdM.Name = "cmdM";
+            this.cmdM.Size = new System.Drawing.Size(19, 28);
+            this.cmdM.TabIndex = 23;
+            this.cmdM.Text = "m";
+            this.cmdM.UseVisualStyleBackColor = true;
+            this.cmdM.Click += new System.EventHandler(this.guessClick);
+            // 
+            // cmdN
+            // 
+            this.cmdN.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.cmdN.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
+            this.cmdN.Location = new System.Drawing.Point(357, 263);
+            this.cmdN.Name = "cmdN";
+            this.cmdN.Size = new System.Drawing.Size(19, 28);
+            this.cmdN.TabIndex = 22;
+            this.cmdN.Text = "n";
+            this.cmdN.UseVisualStyleBackColor = true;
+            this.cmdN.Click += new System.EventHandler(this.guessClick);
+            // 
+            // cmdŃ
+            // 
+            this.cmdŃ.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.cmdŃ.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
+            this.cmdŃ.Location = new System.Drawing.Point(89, 297);
+            this.cmdŃ.Name = "cmdŃ";
+            this.cmdŃ.Size = new System.Drawing.Size(19, 28);
+            this.cmdŃ.TabIndex = 21;
+            this.cmdŃ.Text = "ń";
+            this.cmdŃ.UseVisualStyleBackColor = true;
+            this.cmdŃ.Click += new System.EventHandler(this.guessClick);
+            // 
+            // cmdH
+            // 
+            this.cmdH.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.cmdH.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
+            this.cmdH.Location = new System.Drawing.Point(246, 263);
+            this.cmdH.Name = "cmdH";
+            this.cmdH.Size = new System.Drawing.Size(19, 28);
+            this.cmdH.TabIndex = 19;
+            this.cmdH.Text = "h";
+            this.cmdH.UseVisualStyleBackColor = true;
+            this.cmdH.Click += new System.EventHandler(this.guessClick);
+            // 
+            // cmdR
+            // 
+            this.cmdR.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.cmdR.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
+            this.cmdR.Location = new System.Drawing.Point(167, 297);
+            this.cmdR.Name = "cmdR";
+            this.cmdR.Size = new System.Drawing.Size(19, 28);
+            this.cmdR.TabIndex = 29;
+            this.cmdR.Text = "r";
+            this.cmdR.UseVisualStyleBackColor = true;
+            this.cmdR.Click += new System.EventHandler(this.guessClick);
+            // 
+            // cmdQ
+            // 
+            this.cmdQ.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.cmdQ.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
+            this.cmdQ.Location = new System.Drawing.Point(151, 297);
+            this.cmdQ.Name = "cmdQ";
+            this.cmdQ.Size = new System.Drawing.Size(19, 28);
+            this.cmdQ.TabIndex = 30;
+            this.cmdQ.Text = "q";
+            this.cmdQ.UseVisualStyleBackColor = true;
+            this.cmdQ.Click += new System.EventHandler(this.guessClick);
+            // 
+            // cmdP
+            // 
+            this.cmdP.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.cmdP.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
+            this.cmdP.Location = new System.Drawing.Point(135, 297);
+            this.cmdP.Name = "cmdP";
+            this.cmdP.Size = new System.Drawing.Size(19, 28);
+            this.cmdP.TabIndex = 31;
+            this.cmdP.Text = "p";
+            this.cmdP.UseVisualStyleBackColor = true;
+            this.cmdP.Click += new System.EventHandler(this.guessClick);
+            // 
+            // cmdó
+            // 
+            this.cmdó.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.cmdó.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
+            this.cmdó.Location = new System.Drawing.Point(120, 297);
+            this.cmdó.Name = "cmdó";
+            this.cmdó.Size = new System.Drawing.Size(19, 28);
+            this.cmdó.TabIndex = 32;
+            this.cmdó.Text = "ó";
+            this.cmdó.UseVisualStyleBackColor = true;
+            this.cmdó.Click += new System.EventHandler(this.guessClick);
+            // 
+            // cmdO
+            // 
+            this.cmdO.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.cmdO.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
+            this.cmdO.Location = new System.Drawing.Point(104, 297);
+            this.cmdO.Name = "cmdO";
+            this.cmdO.Size = new System.Drawing.Size(19, 28);
+            this.cmdO.TabIndex = 33;
+            this.cmdO.Text = "o";
+            this.cmdO.UseVisualStyleBackColor = true;
+            this.cmdO.Click += new System.EventHandler(this.guessClick);
+            // 
+            // cmdV
+            // 
+            this.cmdV.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.cmdV.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
+            this.cmdV.Location = new System.Drawing.Point(246, 297);
+            this.cmdV.Name = "cmdV";
+            this.cmdV.Size = new System.Drawing.Size(19, 28);
+            this.cmdV.TabIndex = 34;
+            this.cmdV.Text = "v";
+            this.cmdV.UseVisualStyleBackColor = true;
+            this.cmdV.Click += new System.EventHandler(this.guessClick);
+            // 
+            // cmdU
+            // 
+            this.cmdU.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.cmdU.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
+            this.cmdU.Location = new System.Drawing.Point(230, 297);
+            this.cmdU.Name = "cmdU";
+            this.cmdU.Size = new System.Drawing.Size(19, 28);
+            this.cmdU.TabIndex = 35;
+            this.cmdU.Text = "u";
+            this.cmdU.UseVisualStyleBackColor = true;
+            this.cmdU.Click += new System.EventHandler(this.guessClick);
+            // 
+            // cmdT
+            // 
+            this.cmdT.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.cmdT.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
+            this.cmdT.Location = new System.Drawing.Point(214, 297);
+            this.cmdT.Name = "cmdT";
+            this.cmdT.Size = new System.Drawing.Size(19, 28);
+            this.cmdT.TabIndex = 36;
+            this.cmdT.Text = "t";
+            this.cmdT.UseVisualStyleBackColor = true;
+            this.cmdT.Click += new System.EventHandler(this.guessClick);
+            // 
+            // cmdŚ
+            // 
+            this.cmdŚ.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.cmdŚ.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
+            this.cmdŚ.Location = new System.Drawing.Point(199, 297);
+            this.cmdŚ.Name = "cmdŚ";
+            this.cmdŚ.Size = new System.Drawing.Size(19, 28);
+            this.cmdŚ.TabIndex = 37;
+            this.cmdŚ.Text = "ś";
+            this.cmdŚ.UseVisualStyleBackColor = true;
+            this.cmdŚ.Click += new System.EventHandler(this.guessClick);
+            // 
+            // cmdS
+            // 
+            this.cmdS.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.cmdS.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
+            this.cmdS.Location = new System.Drawing.Point(183, 297);
+            this.cmdS.Name = "cmdS";
+            this.cmdS.Size = new System.Drawing.Size(19, 28);
+            this.cmdS.TabIndex = 38;
+            this.cmdS.Text = "s";
+            this.cmdS.UseVisualStyleBackColor = true;
+            this.cmdS.Click += new System.EventHandler(this.guessClick);
+            // 
+            // cmdŹ
+            // 
+            this.cmdŹ.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.cmdŹ.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
+            this.cmdŹ.Location = new System.Drawing.Point(325, 297);
+            this.cmdŹ.Name = "cmdŹ";
+            this.cmdŹ.Size = new System.Drawing.Size(19, 28);
+            this.cmdŹ.TabIndex = 39;
+            this.cmdŹ.Text = "ź";
+            this.cmdŹ.UseVisualStyleBackColor = true;
+            this.cmdŹ.Click += new System.EventHandler(this.guessClick);
+            // 
+            // cmdZ
+            // 
+            this.cmdZ.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.cmdZ.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
+            this.cmdZ.Location = new System.Drawing.Point(309, 297);
+            this.cmdZ.Name = "cmdZ";
+            this.cmdZ.Size = new System.Drawing.Size(19, 28);
+            this.cmdZ.TabIndex = 40;
+            this.cmdZ.Text = "z";
+            this.cmdZ.UseVisualStyleBackColor = true;
+            this.cmdZ.Click += new System.EventHandler(this.guessClick);
+            // 
+            // cmdY
+            // 
+            this.cmdY.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.cmdY.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
+            this.cmdY.Location = new System.Drawing.Point(293, 297);
+            this.cmdY.Name = "cmdY";
+            this.cmdY.Size = new System.Drawing.Size(19, 28);
+            this.cmdY.TabIndex = 41;
+            this.cmdY.Text = "y";
+            this.cmdY.UseVisualStyleBackColor = true;
+            this.cmdY.Click += new System.EventHandler(this.guessClick);
+            // 
+            // cmdX
+            // 
+            this.cmdX.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.cmdX.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
+            this.cmdX.Location = new System.Drawing.Point(277, 297);
+            this.cmdX.Name = "cmdX";
+            this.cmdX.Size = new System.Drawing.Size(19, 28);
+            this.cmdX.TabIndex = 42;
+            this.cmdX.Text = "x";
+            this.cmdX.UseVisualStyleBackColor = true;
+            this.cmdX.Click += new System.EventHandler(this.guessClick);
+            // 
+            // cmdW
+            // 
+            this.cmdW.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.cmdW.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
+            this.cmdW.Location = new System.Drawing.Point(261, 297);
+            this.cmdW.Name = "cmdW";
+            this.cmdW.Size = new System.Drawing.Size(19, 28);
+            this.cmdW.TabIndex = 43;
+            this.cmdW.Text = "w";
+            this.cmdW.UseVisualStyleBackColor = true;
+            this.cmdW.Click += new System.EventHandler(this.guessClick);
+            // 
+            // cmdŻ
+            // 
+            this.cmdŻ.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.cmdŻ.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
+            this.cmdŻ.Location = new System.Drawing.Point(341, 297);
+            this.cmdŻ.Name = "cmdŻ";
+            this.cmdŻ.Size = new System.Drawing.Size(19, 28);
+            this.cmdŻ.TabIndex = 44;
+            this.cmdŻ.Text = "ż";
+            this.cmdŻ.UseVisualStyleBackColor = true;
+            this.cmdŻ.Click += new System.EventHandler(this.guessClick);
             // 
             // lblResult
             // 
@@ -537,40 +537,40 @@
             this.Controls.Add(this.button35);
             this.Controls.Add(this.lblShowWord);
             this.Controls.Add(this.lblResult);
-            this.Controls.Add(this.button34);
-            this.Controls.Add(this.button33);
-            this.Controls.Add(this.button32);
-            this.Controls.Add(this.button31);
-            this.Controls.Add(this.button30);
-            this.Controls.Add(this.button29);
-            this.Controls.Add(this.button28);
-            this.Controls.Add(this.button27);
-            this.Controls.Add(this.button26);
-            this.Controls.Add(this.button25);
-            this.Controls.Add(this.button24);
-            this.Controls.Add(this.button23);
-            this.Controls.Add(this.button22);
-            this.Controls.Add(this.button21);
-            this.Controls.Add(this.button20);
-            this.Controls.Add(this.button18);
-            this.Controls.Add(this.button1);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.button3);
-            this.Controls.Add(this.button4);
-            this.Controls.Add(this.button5);
-            this.Controls.Add(this.button6);
-            this.Controls.Add(this.button7);
-            this.Controls.Add(this.button8);
-            this.Controls.Add(this.button19);
-            this.Controls.Add(this.button17);
-            this.Controls.Add(this.button16);
-            this.Controls.Add(this.button15);
-            this.Controls.Add(this.button14);
-            this.Controls.Add(this.button13);
-            this.Controls.Add(this.button12);
-            this.Controls.Add(this.button11);
-            this.Controls.Add(this.button10);
-            this.Controls.Add(this.button9);
+            this.Controls.Add(this.cmdŻ);
+            this.Controls.Add(this.cmdW);
+            this.Controls.Add(this.cmdX);
+            this.Controls.Add(this.cmdY);
+            this.Controls.Add(this.cmdZ);
+            this.Controls.Add(this.cmdŹ);
+            this.Controls.Add(this.cmdS);
+            this.Controls.Add(this.cmdŚ);
+            this.Controls.Add(this.cmdT);
+            this.Controls.Add(this.cmdU);
+            this.Controls.Add(this.cmdV);
+            this.Controls.Add(this.cmdO);
+            this.Controls.Add(this.cmdó);
+            this.Controls.Add(this.cmdP);
+            this.Controls.Add(this.cmdQ);
+            this.Controls.Add(this.cmdR);
+            this.Controls.Add(this.cmdI);
+            this.Controls.Add(this.cmdJ);
+            this.Controls.Add(this.cmdK);
+            this.Controls.Add(this.cmdL);
+            this.Controls.Add(this.cmdŁ);
+            this.Controls.Add(this.cmdM);
+            this.Controls.Add(this.cmdN);
+            this.Controls.Add(this.cmdŃ);
+            this.Controls.Add(this.cmdH);
+            this.Controls.Add(this.cmdĄ);
+            this.Controls.Add(this.cmdB);
+            this.Controls.Add(this.cmdC);
+            this.Controls.Add(this.cmdĆ);
+            this.Controls.Add(this.cmdD);
+            this.Controls.Add(this.cmdE);
+            this.Controls.Add(this.cmdĘ);
+            this.Controls.Add(this.cmdF);
+            this.Controls.Add(this.cmdG);
             this.Controls.Add(this.cmdA);
             this.Controls.Add(this.HangImage);
             this.Name = "frmHang";
@@ -586,40 +586,40 @@
 
         private System.Windows.Forms.PictureBox HangImage;
         private System.Windows.Forms.Button cmdA;
-        private System.Windows.Forms.Button button9;
-        private System.Windows.Forms.Button button10;
-        private System.Windows.Forms.Button button11;
-        private System.Windows.Forms.Button button12;
-        private System.Windows.Forms.Button button13;
-        private System.Windows.Forms.Button button14;
-        private System.Windows.Forms.Button button15;
-        private System.Windows.Forms.Button button16;
-        private System.Windows.Forms.Button button17;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Button button3;
-        private System.Windows.Forms.Button button4;
-        private System.Windows.Forms.Button button5;
-        private System.Windows.Forms.Button button6;
-        private System.Windows.Forms.Button button7;
-        private System.Windows.Forms.Button button8;
-        private System.Windows.Forms.Button button19;
-        private System.Windows.Forms.Button button18;
-        private System.Windows.Forms.Button button20;
-        private System.Windows.Forms.Button button21;
-        private System.Windows.Forms.Button button22;
-        private System.Windows.Forms.Button button23;
-        private System.Windows.Forms.Button button24;
-        private System.Windows.Forms.Button button25;
-        private System.Windows.Forms.Button button26;
-        private System.Windows.Forms.Button button27;
-        private System.Windows.Forms.Button button28;
-        private System.Windows.Forms.Button button29;
-        private System.Windows.Forms.Button button30;
-        private System.Windows.Forms.Button button31;
-        private System.Windows.Forms.Button button32;
-        private System.Windows.Forms.Button button33;
-        private System.Windows.Forms.Button button34;
+        private System.Windows.Forms.Button cmdG;
+        private System.Windows.Forms.Button cmdF;
+        private System.Windows.Forms.Button cmdĘ;
+        private System.Windows.Forms.Button cmdE;
+        private System.Windows.Forms.Button cmdD;
+        private System.Windows.Forms.Button cmdĆ;
+        private System.Windows.Forms.Button cmdC;
+        private System.Windows.Forms.Button cmdB;
+        private System.Windows.Forms.Button cmdĄ;
+        private System.Windows.Forms.Button cmdI;
+        private System.Windows.Forms.Button cmdJ;
+        private System.Windows.Forms.Button cmdK;
+        private System.Windows.Forms.Button cmdL;
+        private System.Windows.Forms.Button cmdŁ;
+        private System.Windows.Forms.Button cmdM;
+        private System.Windows.Forms.Button cmdN;
+        private System.Windows.Forms.Button cmdŃ;
+        private System.Windows.Forms.Button cmdH;
+        private System.Windows.Forms.Button cmdR;
+        private System.Windows.Forms.Button cmdQ;
+        private System.Windows.Forms.Button cmdP;
+        private System.Windows.Forms.Button cmdó;
+        private System.Windows.Forms.Button cmdO;
+        private System.Windows.Forms.Button cmdV;
+        private System.Windows.Forms.Button cmdU;
+        private System.Windows.Forms.Button cmdT;
+        private System.Windows.Forms.Button cmdŚ;
+        private System.Windows.Forms.Button cmdS;
+        private System.Windows.Forms.Button cmdŹ;
+        private System.Windows.Forms.Button cmdZ;
+        private System.Windows.Forms.Button cmdY;
+        private System.Windows.Forms.Button cmdX;
+        private System.Windows.Forms.Button cmdW;
+        private System.Windows.Forms.Button cmdŻ;
         private System.Windows.Forms.Label lblResult;
         private System.Windows.Forms.Label lblShowWord;
         private System.Windows.Forms.Button button35;
