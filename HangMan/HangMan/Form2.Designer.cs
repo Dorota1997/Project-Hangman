@@ -574,6 +574,7 @@
             this.Controls.Add(this.cmdA);
             this.Controls.Add(this.HangImage);
             this.Name = "frmHang";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "HangMan";
             this.Load += new System.EventHandler(this.frmHang_Load);
             ((System.ComponentModel.ISupportInitialize)(this.HangImage)).EndInit();

@@ -33,16 +33,18 @@ namespace HangMan
 
         private void loadwords()
         {
-            char[] delimiterChars = { ',' };
             string[] readText = File.ReadAllLines("CommonWords.txt");
+
             words = new string[readText.Length];
+
             int index = 0;
 
             foreach (string s in readText)
             {
-                string[] line = s.Split(delimiterChars);
+                string[] line = s.Split();
                 words[index++] = line[0];
             }
+
             int end = 0;
 
         }
@@ -50,10 +52,15 @@ namespace HangMan
         private void setupWordChoice()
         {
             wrongGuesses = 0;
+
             HangImage.Image = hangImages[wrongGuesses];
+
             int guessIndex = (new Random()).Next(words.Length);
+
             current = words[guessIndex];
+
             copyCurrent = "";
+
             for (int index = 0; index < current.Length; index++)
             {
                 copyCurrent += "_";
@@ -64,6 +71,7 @@ namespace HangMan
         private void displayCopy()
         {
             lblShowWord.Text = "";
+
             for (int index = 0; index < copyCurrent.Length; index++)
             {
                 lblShowWord.Text += copyCurrent.Substring(index, 1);
@@ -94,7 +102,9 @@ namespace HangMan
                         temp[index] = guessChar;
                     }
                 }
+
                 copyCurrent = new string(temp);
+
                 displayCopy();
             }
             else
@@ -103,17 +113,19 @@ namespace HangMan
             }
 
             wrongGuesses++;
+
             if (wrongGuesses < 7)
             {
                 HangImage.Image = hangImages[wrongGuesses];
             }
             else
             {
-                lblResult.Text = "You lose!";
+                MessageBox.Show("Przegrałeś!");
+                Close();
             }
             if (copyCurrent.Equals(current))
             {
-                lblResult.Text = "You win!";
+                lblResult.Text = "Wygrałeś!";
             }
         }
 
