@@ -66,6 +66,7 @@
             this.button34 = new System.Windows.Forms.Button();
             this.lblResult = new System.Windows.Forms.Label();
             this.lblShowWord = new System.Windows.Forms.Label();
+            this.button35 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.HangImage)).BeginInit();
             this.SuspendLayout();
             // 
@@ -101,6 +102,7 @@
             this.button9.TabIndex = 10;
             this.button9.Text = "g";
             this.button9.UseVisualStyleBackColor = true;
+            this.button9.Click += new System.EventHandler(this.guessClick);
             // 
             // button10
             // 
@@ -112,6 +114,7 @@
             this.button10.TabIndex = 11;
             this.button10.Text = "f";
             this.button10.UseVisualStyleBackColor = true;
+            this.button10.Click += new System.EventHandler(this.guessClick);
             // 
             // button11
             // 
@@ -123,6 +126,7 @@
             this.button11.TabIndex = 12;
             this.button11.Text = "ę";
             this.button11.UseVisualStyleBackColor = true;
+            this.button11.Click += new System.EventHandler(this.guessClick);
             // 
             // button12
             // 
@@ -134,6 +138,7 @@
             this.button12.TabIndex = 13;
             this.button12.Text = "e";
             this.button12.UseVisualStyleBackColor = true;
+            this.button12.Click += new System.EventHandler(this.guessClick);
             // 
             // button13
             // 
@@ -145,6 +150,7 @@
             this.button13.TabIndex = 14;
             this.button13.Text = "d";
             this.button13.UseVisualStyleBackColor = true;
+            this.button13.Click += new System.EventHandler(this.guessClick);
             // 
             // button14
             // 
@@ -156,6 +162,7 @@
             this.button14.TabIndex = 15;
             this.button14.Text = "ć";
             this.button14.UseVisualStyleBackColor = true;
+            this.button14.Click += new System.EventHandler(this.guessClick);
             // 
             // button15
             // 
@@ -167,6 +174,7 @@
             this.button15.TabIndex = 16;
             this.button15.Text = "c";
             this.button15.UseVisualStyleBackColor = true;
+            this.button15.Click += new System.EventHandler(this.guessClick);
             // 
             // button16
             // 
@@ -178,6 +186,7 @@
             this.button16.TabIndex = 17;
             this.button16.Text = "b";
             this.button16.UseVisualStyleBackColor = true;
+            this.button16.Click += new System.EventHandler(this.guessClick);
             // 
             // button17
             // 
@@ -189,6 +198,7 @@
             this.button17.TabIndex = 18;
             this.button17.Text = "ą";
             this.button17.UseVisualStyleBackColor = true;
+            this.button17.Click += new System.EventHandler(this.guessClick);
             // 
             // button1
             // 
@@ -200,6 +210,7 @@
             this.button1.TabIndex = 28;
             this.button1.Text = "i";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.guessClick);
             // 
             // button2
             // 
@@ -211,6 +222,7 @@
             this.button2.TabIndex = 27;
             this.button2.Text = "j";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.guessClick);
             // 
             // button3
             // 
@@ -222,6 +234,7 @@
             this.button3.TabIndex = 26;
             this.button3.Text = "k";
             this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.guessClick);
             // 
             // button4
             // 
@@ -233,6 +246,7 @@
             this.button4.TabIndex = 25;
             this.button4.Text = "l";
             this.button4.UseVisualStyleBackColor = true;
+            this.button4.Click += new System.EventHandler(this.guessClick);
             // 
             // button5
             // 
@@ -244,6 +258,7 @@
             this.button5.TabIndex = 24;
             this.button5.Text = "ł";
             this.button5.UseVisualStyleBackColor = true;
+            this.button5.Click += new System.EventHandler(this.guessClick);
             // 
             // button6
             // 
@@ -255,6 +270,7 @@
             this.button6.TabIndex = 23;
             this.button6.Text = "m";
             this.button6.UseVisualStyleBackColor = true;
+            this.button6.Click += new System.EventHandler(this.guessClick);
             // 
             // button7
             // 
@@ -266,6 +282,7 @@
             this.button7.TabIndex = 22;
             this.button7.Text = "n";
             this.button7.UseVisualStyleBackColor = true;
+            this.button7.Click += new System.EventHandler(this.guessClick);
             // 
             // button8
             // 
@@ -277,6 +294,7 @@
             this.button8.TabIndex = 21;
             this.button8.Text = "ń";
             this.button8.UseVisualStyleBackColor = true;
+            this.button8.Click += new System.EventHandler(this.guessClick);
             // 
             // button19
             // 
@@ -288,6 +306,7 @@
             this.button19.TabIndex = 19;
             this.button19.Text = "h";
             this.button19.UseVisualStyleBackColor = true;
+            this.button19.Click += new System.EventHandler(this.guessClick);
             // 
             // button18
             // 
@@ -299,6 +318,7 @@
             this.button18.TabIndex = 29;
             this.button18.Text = "r";
             this.button18.UseVisualStyleBackColor = true;
+            this.button18.Click += new System.EventHandler(this.guessClick);
             // 
             // button20
             // 
@@ -310,6 +330,7 @@
             this.button20.TabIndex = 30;
             this.button20.Text = "q";
             this.button20.UseVisualStyleBackColor = true;
+            this.button20.Click += new System.EventHandler(this.guessClick);
             // 
             // button21
             // 
@@ -321,6 +342,7 @@
             this.button21.TabIndex = 31;
             this.button21.Text = "p";
             this.button21.UseVisualStyleBackColor = true;
+            this.button21.Click += new System.EventHandler(this.guessClick);
             // 
             // button22
             // 
@@ -332,6 +354,7 @@
             this.button22.TabIndex = 32;
             this.button22.Text = "ó";
             this.button22.UseVisualStyleBackColor = true;
+            this.button22.Click += new System.EventHandler(this.guessClick);
             // 
             // button23
             // 
@@ -343,6 +366,7 @@
             this.button23.TabIndex = 33;
             this.button23.Text = "o";
             this.button23.UseVisualStyleBackColor = true;
+            this.button23.Click += new System.EventHandler(this.guessClick);
             // 
             // button24
             // 
@@ -354,6 +378,7 @@
             this.button24.TabIndex = 34;
             this.button24.Text = "v";
             this.button24.UseVisualStyleBackColor = true;
+            this.button24.Click += new System.EventHandler(this.guessClick);
             // 
             // button25
             // 
@@ -365,6 +390,7 @@
             this.button25.TabIndex = 35;
             this.button25.Text = "u";
             this.button25.UseVisualStyleBackColor = true;
+            this.button25.Click += new System.EventHandler(this.guessClick);
             // 
             // button26
             // 
@@ -376,6 +402,7 @@
             this.button26.TabIndex = 36;
             this.button26.Text = "t";
             this.button26.UseVisualStyleBackColor = true;
+            this.button26.Click += new System.EventHandler(this.guessClick);
             // 
             // button27
             // 
@@ -387,6 +414,7 @@
             this.button27.TabIndex = 37;
             this.button27.Text = "ś";
             this.button27.UseVisualStyleBackColor = true;
+            this.button27.Click += new System.EventHandler(this.guessClick);
             // 
             // button28
             // 
@@ -398,6 +426,7 @@
             this.button28.TabIndex = 38;
             this.button28.Text = "s";
             this.button28.UseVisualStyleBackColor = true;
+            this.button28.Click += new System.EventHandler(this.guessClick);
             // 
             // button29
             // 
@@ -409,6 +438,7 @@
             this.button29.TabIndex = 39;
             this.button29.Text = "ź";
             this.button29.UseVisualStyleBackColor = true;
+            this.button29.Click += new System.EventHandler(this.guessClick);
             // 
             // button30
             // 
@@ -420,6 +450,7 @@
             this.button30.TabIndex = 40;
             this.button30.Text = "z";
             this.button30.UseVisualStyleBackColor = true;
+            this.button30.Click += new System.EventHandler(this.guessClick);
             // 
             // button31
             // 
@@ -431,6 +462,7 @@
             this.button31.TabIndex = 41;
             this.button31.Text = "y";
             this.button31.UseVisualStyleBackColor = true;
+            this.button31.Click += new System.EventHandler(this.guessClick);
             // 
             // button32
             // 
@@ -442,6 +474,7 @@
             this.button32.TabIndex = 42;
             this.button32.Text = "x";
             this.button32.UseVisualStyleBackColor = true;
+            this.button32.Click += new System.EventHandler(this.guessClick);
             // 
             // button33
             // 
@@ -453,6 +486,7 @@
             this.button33.TabIndex = 43;
             this.button33.Text = "w";
             this.button33.UseVisualStyleBackColor = true;
+            this.button33.Click += new System.EventHandler(this.guessClick);
             // 
             // button34
             // 
@@ -464,6 +498,7 @@
             this.button34.TabIndex = 44;
             this.button34.Text = "ż";
             this.button34.UseVisualStyleBackColor = true;
+            this.button34.Click += new System.EventHandler(this.guessClick);
             // 
             // lblResult
             // 
@@ -476,10 +511,22 @@
             // lblShowWord
             // 
             this.lblShowWord.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.lblShowWord.Font = new System.Drawing.Font("Times New Roman", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.lblShowWord.Location = new System.Drawing.Point(86, 218);
             this.lblShowWord.Name = "lblShowWord";
             this.lblShowWord.Size = new System.Drawing.Size(201, 35);
             this.lblShowWord.TabIndex = 46;
+            this.lblShowWord.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            // 
+            // button35
+            // 
+            this.button35.Location = new System.Drawing.Point(383, 228);
+            this.button35.Name = "button35";
+            this.button35.Size = new System.Drawing.Size(63, 24);
+            this.button35.TabIndex = 47;
+            this.button35.Text = "button35";
+            this.button35.UseVisualStyleBackColor = true;
+            this.button35.Click += new System.EventHandler(this.button35_Click);
             // 
             // frmHang
             // 
@@ -487,6 +534,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.AppWorkspace;
             this.ClientSize = new System.Drawing.Size(494, 342);
+            this.Controls.Add(this.button35);
             this.Controls.Add(this.lblShowWord);
             this.Controls.Add(this.lblResult);
             this.Controls.Add(this.button34);
@@ -574,6 +622,7 @@
         private System.Windows.Forms.Button button34;
         private System.Windows.Forms.Label lblResult;
         private System.Windows.Forms.Label lblShowWord;
+        private System.Windows.Forms.Button button35;
     }
 }
 

@@ -63,6 +63,7 @@ namespace HangMan
 
         private void displayCopy()
         {
+            lblShowWord.Text = "";
             for (int index = 0; index < copyCurrent.Length; index++)
             {
                 lblShowWord.Text += copyCurrent.Substring(index, 1);
@@ -77,6 +78,30 @@ namespace HangMan
 
         private void guessClick(object sender, EventArgs e)
         {
+            Button choice = sender as Button;
+            choice.Enabled = false;
+
+            if (current.Contains(choice.Text))
+            {
+                char[] temp = copyCurrent.ToCharArray();
+                char[] find = current.ToCharArray();
+                char guessChar = choice.Text.ElementAt(0);
+
+                for (int index = 0; index < find.Length; index++ )
+                {
+                    if (find[index] == guessChar)
+                    {
+                        temp[index] = guessChar;
+                    }
+                }
+                copyCurrent = new string(temp);
+                displayCopy();
+            }
+            else
+            {
+                wrongGuesses++;
+            }
+
             wrongGuesses++;
             if (wrongGuesses < 7)
             {
@@ -86,13 +111,22 @@ namespace HangMan
             {
                 lblResult.Text = "You lose!";
             }
-
+            if (copyCurrent.Equals(current))
+            {
+                lblResult.Text = "You win!";
+            }
         }
 
         private void frmHang_Load(object sender, EventArgs e)
         {
             loadwords();
             setupWordChoice();
+        }
+
+        private void button35_Click(object sender, EventArgs e)
+        {
+            setupWordChoice();
+            lblResult.Text = "";
         }
     }
 }
