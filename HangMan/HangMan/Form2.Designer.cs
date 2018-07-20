@@ -73,7 +73,7 @@
             // HangImage
             // 
             this.HangImage.Image = global::HangMan.Properties.Resources.Hang1;
-            this.HangImage.Location = new System.Drawing.Point(89, 3);
+            this.HangImage.Location = new System.Drawing.Point(217, 12);
             this.HangImage.Name = "HangImage";
             this.HangImage.Size = new System.Drawing.Size(74, 200);
             this.HangImage.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -84,7 +84,7 @@
             // 
             this.cmdA.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdA.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.cmdA.Location = new System.Drawing.Point(89, 263);
+            this.cmdA.Location = new System.Drawing.Point(107, 271);
             this.cmdA.Name = "cmdA";
             this.cmdA.Size = new System.Drawing.Size(19, 28);
             this.cmdA.TabIndex = 1;
@@ -96,7 +96,7 @@
             // 
             this.cmdG.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdG.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.cmdG.Location = new System.Drawing.Point(231, 263);
+            this.cmdG.Location = new System.Drawing.Point(249, 271);
             this.cmdG.Name = "cmdG";
             this.cmdG.Size = new System.Drawing.Size(19, 28);
             this.cmdG.TabIndex = 10;
@@ -108,7 +108,7 @@
             // 
             this.cmdF.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdF.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.cmdF.Location = new System.Drawing.Point(215, 263);
+            this.cmdF.Location = new System.Drawing.Point(233, 271);
             this.cmdF.Name = "cmdF";
             this.cmdF.Size = new System.Drawing.Size(19, 28);
             this.cmdF.TabIndex = 11;
@@ -120,7 +120,7 @@
             // 
             this.cmdĘ.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdĘ.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.cmdĘ.Location = new System.Drawing.Point(199, 263);
+            this.cmdĘ.Location = new System.Drawing.Point(217, 271);
             this.cmdĘ.Name = "cmdĘ";
             this.cmdĘ.Size = new System.Drawing.Size(19, 28);
             this.cmdĘ.TabIndex = 12;
@@ -132,7 +132,7 @@
             // 
             this.cmdE.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdE.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.cmdE.Location = new System.Drawing.Point(184, 263);
+            this.cmdE.Location = new System.Drawing.Point(202, 271);
             this.cmdE.Name = "cmdE";
             this.cmdE.Size = new System.Drawing.Size(19, 28);
             this.cmdE.TabIndex = 13;
@@ -144,7 +144,7 @@
             // 
             this.cmdD.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdD.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.cmdD.Location = new System.Drawing.Point(168, 263);
+            this.cmdD.Location = new System.Drawing.Point(186, 271);
             this.cmdD.Name = "cmdD";
             this.cmdD.Size = new System.Drawing.Size(19, 28);
             this.cmdD.TabIndex = 14;
@@ -156,7 +156,7 @@
             // 
             this.cmdĆ.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdĆ.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.cmdĆ.Location = new System.Drawing.Point(152, 263);
+            this.cmdĆ.Location = new System.Drawing.Point(170, 271);
             this.cmdĆ.Name = "cmdĆ";
             this.cmdĆ.Size = new System.Drawing.Size(19, 28);
             this.cmdĆ.TabIndex = 15;
@@ -168,7 +168,7 @@
             // 
             this.cmdC.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdC.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.cmdC.Location = new System.Drawing.Point(136, 263);
+            this.cmdC.Location = new System.Drawing.Point(154, 271);
             this.cmdC.Name = "cmdC";
             this.cmdC.Size = new System.Drawing.Size(19, 28);
             this.cmdC.TabIndex = 16;
@@ -180,7 +180,7 @@
             // 
             this.cmdB.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdB.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.cmdB.Location = new System.Drawing.Point(120, 263);
+            this.cmdB.Location = new System.Drawing.Point(138, 271);
             this.cmdB.Name = "cmdB";
             this.cmdB.Size = new System.Drawing.Size(19, 28);
             this.cmdB.TabIndex = 17;
@@ -192,7 +192,7 @@
             // 
             this.cmdĄ.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdĄ.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.cmdĄ.Location = new System.Drawing.Point(104, 263);
+            this.cmdĄ.Location = new System.Drawing.Point(122, 271);
             this.cmdĄ.Name = "cmdĄ";
             this.cmdĄ.Size = new System.Drawing.Size(19, 28);
             this.cmdĄ.TabIndex = 18;
@@ -204,7 +204,7 @@
             // 
             this.cmdI.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdI.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.cmdI.Location = new System.Drawing.Point(262, 263);
+            this.cmdI.Location = new System.Drawing.Point(280, 271);
             this.cmdI.Name = "cmdI";
             this.cmdI.Size = new System.Drawing.Size(19, 28);
             this.cmdI.TabIndex = 28;
@@ -216,7 +216,7 @@
             // 
             this.cmdJ.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdJ.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.cmdJ.Location = new System.Drawing.Point(278, 263);
+            this.cmdJ.Location = new System.Drawing.Point(296, 271);
             this.cmdJ.Name = "cmdJ";
             this.cmdJ.Size = new System.Drawing.Size(19, 28);
             this.cmdJ.TabIndex = 27;
@@ -228,7 +228,7 @@
             // 
             this.cmdK.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdK.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.cmdK.Location = new System.Drawing.Point(294, 263);
+            this.cmdK.Location = new System.Drawing.Point(312, 271);
             this.cmdK.Name = "cmdK";
             this.cmdK.Size = new System.Drawing.Size(19, 28);
             this.cmdK.TabIndex = 26;
@@ -240,7 +240,7 @@
             // 
             this.cmdL.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdL.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.cmdL.Location = new System.Drawing.Point(310, 263);
+            this.cmdL.Location = new System.Drawing.Point(328, 271);
             this.cmdL.Name = "cmdL";
             this.cmdL.Size = new System.Drawing.Size(19, 28);
             this.cmdL.TabIndex = 25;
@@ -252,7 +252,7 @@
             // 
             this.cmdŁ.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdŁ.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.cmdŁ.Location = new System.Drawing.Point(326, 263);
+            this.cmdŁ.Location = new System.Drawing.Point(344, 271);
             this.cmdŁ.Name = "cmdŁ";
             this.cmdŁ.Size = new System.Drawing.Size(19, 28);
             this.cmdŁ.TabIndex = 24;
@@ -264,7 +264,7 @@
             // 
             this.cmdM.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdM.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.cmdM.Location = new System.Drawing.Point(341, 263);
+            this.cmdM.Location = new System.Drawing.Point(359, 271);
             this.cmdM.Name = "cmdM";
             this.cmdM.Size = new System.Drawing.Size(19, 28);
             this.cmdM.TabIndex = 23;
@@ -276,7 +276,7 @@
             // 
             this.cmdN.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdN.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.cmdN.Location = new System.Drawing.Point(357, 263);
+            this.cmdN.Location = new System.Drawing.Point(375, 271);
             this.cmdN.Name = "cmdN";
             this.cmdN.Size = new System.Drawing.Size(19, 28);
             this.cmdN.TabIndex = 22;
@@ -288,7 +288,7 @@
             // 
             this.cmdŃ.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdŃ.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.cmdŃ.Location = new System.Drawing.Point(89, 297);
+            this.cmdŃ.Location = new System.Drawing.Point(107, 305);
             this.cmdŃ.Name = "cmdŃ";
             this.cmdŃ.Size = new System.Drawing.Size(19, 28);
             this.cmdŃ.TabIndex = 21;
@@ -300,7 +300,7 @@
             // 
             this.cmdH.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdH.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.cmdH.Location = new System.Drawing.Point(246, 263);
+            this.cmdH.Location = new System.Drawing.Point(264, 271);
             this.cmdH.Name = "cmdH";
             this.cmdH.Size = new System.Drawing.Size(19, 28);
             this.cmdH.TabIndex = 19;
@@ -312,7 +312,7 @@
             // 
             this.cmdR.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdR.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.cmdR.Location = new System.Drawing.Point(167, 297);
+            this.cmdR.Location = new System.Drawing.Point(185, 305);
             this.cmdR.Name = "cmdR";
             this.cmdR.Size = new System.Drawing.Size(19, 28);
             this.cmdR.TabIndex = 29;
@@ -324,7 +324,7 @@
             // 
             this.cmdQ.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdQ.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.cmdQ.Location = new System.Drawing.Point(151, 297);
+            this.cmdQ.Location = new System.Drawing.Point(169, 305);
             this.cmdQ.Name = "cmdQ";
             this.cmdQ.Size = new System.Drawing.Size(19, 28);
             this.cmdQ.TabIndex = 30;
@@ -336,7 +336,7 @@
             // 
             this.cmdP.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdP.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.cmdP.Location = new System.Drawing.Point(135, 297);
+            this.cmdP.Location = new System.Drawing.Point(153, 305);
             this.cmdP.Name = "cmdP";
             this.cmdP.Size = new System.Drawing.Size(19, 28);
             this.cmdP.TabIndex = 31;
@@ -348,7 +348,7 @@
             // 
             this.cmdó.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdó.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.cmdó.Location = new System.Drawing.Point(120, 297);
+            this.cmdó.Location = new System.Drawing.Point(138, 305);
             this.cmdó.Name = "cmdó";
             this.cmdó.Size = new System.Drawing.Size(19, 28);
             this.cmdó.TabIndex = 32;
@@ -360,7 +360,7 @@
             // 
             this.cmdO.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdO.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.cmdO.Location = new System.Drawing.Point(104, 297);
+            this.cmdO.Location = new System.Drawing.Point(122, 305);
             this.cmdO.Name = "cmdO";
             this.cmdO.Size = new System.Drawing.Size(19, 28);
             this.cmdO.TabIndex = 33;
@@ -372,7 +372,7 @@
             // 
             this.cmdV.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdV.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.cmdV.Location = new System.Drawing.Point(246, 297);
+            this.cmdV.Location = new System.Drawing.Point(264, 305);
             this.cmdV.Name = "cmdV";
             this.cmdV.Size = new System.Drawing.Size(19, 28);
             this.cmdV.TabIndex = 34;
@@ -384,7 +384,7 @@
             // 
             this.cmdU.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdU.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.cmdU.Location = new System.Drawing.Point(230, 297);
+            this.cmdU.Location = new System.Drawing.Point(248, 305);
             this.cmdU.Name = "cmdU";
             this.cmdU.Size = new System.Drawing.Size(19, 28);
             this.cmdU.TabIndex = 35;
@@ -396,7 +396,7 @@
             // 
             this.cmdT.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdT.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.cmdT.Location = new System.Drawing.Point(214, 297);
+            this.cmdT.Location = new System.Drawing.Point(232, 305);
             this.cmdT.Name = "cmdT";
             this.cmdT.Size = new System.Drawing.Size(19, 28);
             this.cmdT.TabIndex = 36;
@@ -408,7 +408,7 @@
             // 
             this.cmdŚ.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdŚ.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.cmdŚ.Location = new System.Drawing.Point(199, 297);
+            this.cmdŚ.Location = new System.Drawing.Point(217, 305);
             this.cmdŚ.Name = "cmdŚ";
             this.cmdŚ.Size = new System.Drawing.Size(19, 28);
             this.cmdŚ.TabIndex = 37;
@@ -420,7 +420,7 @@
             // 
             this.cmdS.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdS.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.cmdS.Location = new System.Drawing.Point(183, 297);
+            this.cmdS.Location = new System.Drawing.Point(201, 305);
             this.cmdS.Name = "cmdS";
             this.cmdS.Size = new System.Drawing.Size(19, 28);
             this.cmdS.TabIndex = 38;
@@ -432,7 +432,7 @@
             // 
             this.cmdŹ.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdŹ.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.cmdŹ.Location = new System.Drawing.Point(325, 297);
+            this.cmdŹ.Location = new System.Drawing.Point(343, 305);
             this.cmdŹ.Name = "cmdŹ";
             this.cmdŹ.Size = new System.Drawing.Size(19, 28);
             this.cmdŹ.TabIndex = 39;
@@ -444,7 +444,7 @@
             // 
             this.cmdZ.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdZ.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.cmdZ.Location = new System.Drawing.Point(309, 297);
+            this.cmdZ.Location = new System.Drawing.Point(327, 305);
             this.cmdZ.Name = "cmdZ";
             this.cmdZ.Size = new System.Drawing.Size(19, 28);
             this.cmdZ.TabIndex = 40;
@@ -456,7 +456,7 @@
             // 
             this.cmdY.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdY.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.cmdY.Location = new System.Drawing.Point(293, 297);
+            this.cmdY.Location = new System.Drawing.Point(311, 305);
             this.cmdY.Name = "cmdY";
             this.cmdY.Size = new System.Drawing.Size(19, 28);
             this.cmdY.TabIndex = 41;
@@ -468,7 +468,7 @@
             // 
             this.cmdX.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdX.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.cmdX.Location = new System.Drawing.Point(277, 297);
+            this.cmdX.Location = new System.Drawing.Point(295, 305);
             this.cmdX.Name = "cmdX";
             this.cmdX.Size = new System.Drawing.Size(19, 28);
             this.cmdX.TabIndex = 42;
@@ -480,7 +480,7 @@
             // 
             this.cmdW.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdW.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.cmdW.Location = new System.Drawing.Point(261, 297);
+            this.cmdW.Location = new System.Drawing.Point(279, 305);
             this.cmdW.Name = "cmdW";
             this.cmdW.Size = new System.Drawing.Size(19, 28);
             this.cmdW.TabIndex = 43;
@@ -492,7 +492,7 @@
             // 
             this.cmdŻ.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdŻ.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
-            this.cmdŻ.Location = new System.Drawing.Point(341, 297);
+            this.cmdŻ.Location = new System.Drawing.Point(359, 305);
             this.cmdŻ.Name = "cmdŻ";
             this.cmdŻ.Size = new System.Drawing.Size(19, 28);
             this.cmdŻ.TabIndex = 44;
@@ -512,7 +512,7 @@
             // 
             this.lblShowWord.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.lblShowWord.Font = new System.Drawing.Font("Times New Roman", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.lblShowWord.Location = new System.Drawing.Point(86, 218);
+            this.lblShowWord.Location = new System.Drawing.Point(153, 224);
             this.lblShowWord.Name = "lblShowWord";
             this.lblShowWord.Size = new System.Drawing.Size(201, 35);
             this.lblShowWord.TabIndex = 46;
@@ -520,13 +520,14 @@
             // 
             // button35
             // 
-            this.button35.Location = new System.Drawing.Point(383, 228);
+            this.button35.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.button35.Location = new System.Drawing.Point(384, 306);
             this.button35.Name = "button35";
-            this.button35.Size = new System.Drawing.Size(63, 24);
+            this.button35.Size = new System.Drawing.Size(99, 27);
             this.button35.TabIndex = 47;
-            this.button35.Text = "button35";
+            this.button35.Text = "Jeszcze raz";
             this.button35.UseVisualStyleBackColor = true;
-            this.button35.Click += new System.EventHandler(this.button35_Click);
+            this.button35.Click += new System.EventHandler(this.try_again);
             // 
             // frmHang
             // 

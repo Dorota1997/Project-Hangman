@@ -23,7 +23,7 @@ namespace HangMan
         private string[] words;
 
         private string current = "";
-
+        
         private string copyCurrent = "";
 
         public frmHang()
@@ -33,6 +33,8 @@ namespace HangMan
 
         private void loadwords()
         {
+            char[] delimitersChars = { ',' };
+
             string[] readText = File.ReadAllLines("CommonWords.txt");
 
             words = new string[readText.Length];
@@ -41,12 +43,9 @@ namespace HangMan
 
             foreach (string s in readText)
             {
-                string[] line = s.Split();
+                string[] line = s.Split(delimitersChars);
                 words[index++] = line[0];
             }
-
-            int end = 0;
-
         }
 
         private void setupWordChoice()
@@ -92,7 +91,9 @@ namespace HangMan
             if (current.Contains(choice.Text))
             {
                 char[] temp = copyCurrent.ToCharArray();
+
                 char[] find = current.ToCharArray();
+
                 char guessChar = choice.Text.ElementAt(0);
 
                 for (int index = 0; index < find.Length; index++)
@@ -111,9 +112,6 @@ namespace HangMan
             {
                 wrongGuesses++;
             }
-
-            wrongGuesses++;
-
             if (wrongGuesses < 7)
             {
                 HangImage.Image = hangImages[wrongGuesses];
@@ -121,11 +119,12 @@ namespace HangMan
             else
             {
                 MessageBox.Show("Przegrałeś!");
-                Close();
+                
             }
             if (copyCurrent.Equals(current))
             {
-                lblResult.Text = "Wygrałeś!";
+                MessageBox.Show("Wygrałeś!");
+                
             }
         }
 
@@ -136,10 +135,46 @@ namespace HangMan
             setupWordChoice();
         }
 
-        private void button35_Click(object sender, EventArgs e)
+        private void try_again(object sender, EventArgs e)
         {
             setupWordChoice();
             lblResult.Text = "";
+            
+            cmdA.Enabled = true;
+            cmdĄ.Enabled = true;
+            cmdB.Enabled = true;
+            cmdC.Enabled = true;
+            cmdĆ.Enabled = true;
+            cmdD.Enabled = true;
+            cmdE.Enabled = true;
+            cmdĘ.Enabled = true;
+            cmdF.Enabled = true;
+            cmdG.Enabled = true;
+            cmdH.Enabled = true;
+            cmdI.Enabled = true;
+            cmdJ.Enabled = true;
+            cmdK.Enabled = true;
+            cmdL.Enabled = true;
+            cmdŁ.Enabled = true;
+            cmdM.Enabled = true;
+            cmdN.Enabled = true;
+            cmdŃ.Enabled = true;
+            cmdO.Enabled = true;
+            cmdó.Enabled = true;
+            cmdP.Enabled = true;
+            cmdQ.Enabled = true;
+            cmdR.Enabled = true;
+            cmdS.Enabled = true;
+            cmdŚ.Enabled = true;
+            cmdT.Enabled = true;
+            cmdU.Enabled = true;
+            cmdV.Enabled = true;
+            cmdW.Enabled = true;
+            cmdX.Enabled = true;
+            cmdY.Enabled = true;
+            cmdZ.Enabled = true;
+            cmdŹ.Enabled = true;
+            cmdŻ.Enabled = true;
         }
 
     }
