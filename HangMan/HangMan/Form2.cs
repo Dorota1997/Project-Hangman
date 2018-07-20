@@ -177,5 +177,13 @@ namespace HangMan
             cmdŻ.Enabled = true;
         }
 
+        private void GoBack(object sender, EventArgs e)
+        {
+            this.Hide();
+
+            Form1 menu = new Form1();
+            menu.Show();
+
+        }
     }
 }

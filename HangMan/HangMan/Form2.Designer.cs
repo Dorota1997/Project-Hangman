@@ -67,6 +67,7 @@
             this.lblResult = new System.Windows.Forms.Label();
             this.lblShowWord = new System.Windows.Forms.Label();
             this.button35 = new System.Windows.Forms.Button();
+            this.button1 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.HangImage)).BeginInit();
             this.SuspendLayout();
             // 
@@ -82,6 +83,8 @@
             // 
             // cmdA
             // 
+            this.cmdA.FlatAppearance.MouseOverBackColor = System.Drawing.Color.LightSteelBlue;
+            this.cmdA.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.cmdA.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdA.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
             this.cmdA.Location = new System.Drawing.Point(107, 271);
@@ -94,6 +97,8 @@
             // 
             // cmdG
             // 
+            this.cmdG.FlatAppearance.MouseOverBackColor = System.Drawing.Color.LightSteelBlue;
+            this.cmdG.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.cmdG.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdG.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
             this.cmdG.Location = new System.Drawing.Point(249, 271);
@@ -106,6 +111,8 @@
             // 
             // cmdF
             // 
+            this.cmdF.FlatAppearance.MouseOverBackColor = System.Drawing.Color.LightSteelBlue;
+            this.cmdF.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.cmdF.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdF.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
             this.cmdF.Location = new System.Drawing.Point(233, 271);
@@ -118,6 +125,8 @@
             // 
             // cmdĘ
             // 
+            this.cmdĘ.FlatAppearance.MouseOverBackColor = System.Drawing.Color.LightSteelBlue;
+            this.cmdĘ.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.cmdĘ.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdĘ.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
             this.cmdĘ.Location = new System.Drawing.Point(217, 271);
@@ -130,6 +139,8 @@
             // 
             // cmdE
             // 
+            this.cmdE.FlatAppearance.MouseOverBackColor = System.Drawing.Color.LightSteelBlue;
+            this.cmdE.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.cmdE.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdE.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
             this.cmdE.Location = new System.Drawing.Point(202, 271);
@@ -142,6 +153,8 @@
             // 
             // cmdD
             // 
+            this.cmdD.FlatAppearance.MouseOverBackColor = System.Drawing.Color.LightSteelBlue;
+            this.cmdD.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.cmdD.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdD.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
             this.cmdD.Location = new System.Drawing.Point(186, 271);
@@ -154,6 +167,8 @@
             // 
             // cmdĆ
             // 
+            this.cmdĆ.FlatAppearance.MouseOverBackColor = System.Drawing.Color.LightSteelBlue;
+            this.cmdĆ.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.cmdĆ.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdĆ.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
             this.cmdĆ.Location = new System.Drawing.Point(170, 271);
@@ -166,6 +181,8 @@
             // 
             // cmdC
             // 
+            this.cmdC.FlatAppearance.MouseOverBackColor = System.Drawing.Color.LightSteelBlue;
+            this.cmdC.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.cmdC.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdC.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
             this.cmdC.Location = new System.Drawing.Point(154, 271);
@@ -178,6 +195,8 @@
             // 
             // cmdB
             // 
+            this.cmdB.FlatAppearance.MouseOverBackColor = System.Drawing.Color.LightSteelBlue;
+            this.cmdB.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.cmdB.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdB.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
             this.cmdB.Location = new System.Drawing.Point(138, 271);
@@ -190,6 +209,8 @@
             // 
             // cmdĄ
             // 
+            this.cmdĄ.FlatAppearance.MouseOverBackColor = System.Drawing.Color.LightSteelBlue;
+            this.cmdĄ.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.cmdĄ.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdĄ.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
             this.cmdĄ.Location = new System.Drawing.Point(122, 271);
@@ -202,6 +223,8 @@
             // 
             // cmdI
             // 
+            this.cmdI.FlatAppearance.MouseOverBackColor = System.Drawing.Color.LightSteelBlue;
+            this.cmdI.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.cmdI.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdI.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
             this.cmdI.Location = new System.Drawing.Point(280, 271);
@@ -214,6 +237,8 @@
             // 
             // cmdJ
             // 
+            this.cmdJ.FlatAppearance.MouseOverBackColor = System.Drawing.Color.LightSteelBlue;
+            this.cmdJ.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.cmdJ.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdJ.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
             this.cmdJ.Location = new System.Drawing.Point(296, 271);
@@ -226,6 +251,8 @@
             // 
             // cmdK
             // 
+            this.cmdK.FlatAppearance.MouseOverBackColor = System.Drawing.Color.LightSteelBlue;
+            this.cmdK.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.cmdK.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdK.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
             this.cmdK.Location = new System.Drawing.Point(312, 271);
@@ -238,6 +265,8 @@
             // 
             // cmdL
             // 
+            this.cmdL.FlatAppearance.MouseOverBackColor = System.Drawing.Color.LightSteelBlue;
+            this.cmdL.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.cmdL.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdL.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
             this.cmdL.Location = new System.Drawing.Point(328, 271);
@@ -250,6 +279,8 @@
             // 
             // cmdŁ
             // 
+            this.cmdŁ.FlatAppearance.MouseOverBackColor = System.Drawing.Color.LightSteelBlue;
+            this.cmdŁ.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.cmdŁ.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdŁ.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
             this.cmdŁ.Location = new System.Drawing.Point(344, 271);
@@ -262,6 +293,8 @@
             // 
             // cmdM
             // 
+            this.cmdM.FlatAppearance.MouseOverBackColor = System.Drawing.Color.LightSteelBlue;
+            this.cmdM.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.cmdM.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdM.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
             this.cmdM.Location = new System.Drawing.Point(359, 271);
@@ -274,6 +307,8 @@
             // 
             // cmdN
             // 
+            this.cmdN.FlatAppearance.MouseOverBackColor = System.Drawing.Color.LightSteelBlue;
+            this.cmdN.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.cmdN.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdN.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
             this.cmdN.Location = new System.Drawing.Point(375, 271);
@@ -286,6 +321,8 @@
             // 
             // cmdŃ
             // 
+            this.cmdŃ.FlatAppearance.MouseOverBackColor = System.Drawing.Color.LightSteelBlue;
+            this.cmdŃ.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.cmdŃ.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdŃ.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
             this.cmdŃ.Location = new System.Drawing.Point(107, 305);
@@ -298,6 +335,8 @@
             // 
             // cmdH
             // 
+            this.cmdH.FlatAppearance.MouseOverBackColor = System.Drawing.Color.LightSteelBlue;
+            this.cmdH.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.cmdH.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdH.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
             this.cmdH.Location = new System.Drawing.Point(264, 271);
@@ -310,6 +349,8 @@
             // 
             // cmdR
             // 
+            this.cmdR.FlatAppearance.MouseOverBackColor = System.Drawing.Color.LightSteelBlue;
+            this.cmdR.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.cmdR.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdR.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
             this.cmdR.Location = new System.Drawing.Point(185, 305);
@@ -322,6 +363,8 @@
             // 
             // cmdQ
             // 
+            this.cmdQ.FlatAppearance.MouseOverBackColor = System.Drawing.Color.LightSteelBlue;
+            this.cmdQ.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.cmdQ.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdQ.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
             this.cmdQ.Location = new System.Drawing.Point(169, 305);
@@ -334,6 +377,8 @@
             // 
             // cmdP
             // 
+            this.cmdP.FlatAppearance.MouseOverBackColor = System.Drawing.Color.LightSteelBlue;
+            this.cmdP.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.cmdP.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdP.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
             this.cmdP.Location = new System.Drawing.Point(153, 305);
@@ -346,6 +391,8 @@
             // 
             // cmdó
             // 
+            this.cmdó.FlatAppearance.MouseOverBackColor = System.Drawing.Color.LightSteelBlue;
+            this.cmdó.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.cmdó.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdó.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
             this.cmdó.Location = new System.Drawing.Point(138, 305);
@@ -358,6 +405,8 @@
             // 
             // cmdO
             // 
+            this.cmdO.FlatAppearance.MouseOverBackColor = System.Drawing.Color.LightSteelBlue;
+            this.cmdO.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.cmdO.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdO.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
             this.cmdO.Location = new System.Drawing.Point(122, 305);
@@ -370,6 +419,8 @@
             // 
             // cmdV
             // 
+            this.cmdV.FlatAppearance.MouseOverBackColor = System.Drawing.Color.LightSteelBlue;
+            this.cmdV.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.cmdV.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdV.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
             this.cmdV.Location = new System.Drawing.Point(264, 305);
@@ -382,6 +433,8 @@
             // 
             // cmdU
             // 
+            this.cmdU.FlatAppearance.MouseOverBackColor = System.Drawing.Color.LightSteelBlue;
+            this.cmdU.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.cmdU.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdU.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
             this.cmdU.Location = new System.Drawing.Point(248, 305);
@@ -394,6 +447,8 @@
             // 
             // cmdT
             // 
+            this.cmdT.FlatAppearance.MouseOverBackColor = System.Drawing.Color.LightSteelBlue;
+            this.cmdT.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.cmdT.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdT.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
             this.cmdT.Location = new System.Drawing.Point(232, 305);
@@ -406,6 +461,8 @@
             // 
             // cmdŚ
             // 
+            this.cmdŚ.FlatAppearance.MouseOverBackColor = System.Drawing.Color.LightSteelBlue;
+            this.cmdŚ.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.cmdŚ.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdŚ.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
             this.cmdŚ.Location = new System.Drawing.Point(217, 305);
@@ -418,6 +475,8 @@
             // 
             // cmdS
             // 
+            this.cmdS.FlatAppearance.MouseOverBackColor = System.Drawing.Color.LightSteelBlue;
+            this.cmdS.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.cmdS.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdS.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
             this.cmdS.Location = new System.Drawing.Point(201, 305);
@@ -430,6 +489,8 @@
             // 
             // cmdŹ
             // 
+            this.cmdŹ.FlatAppearance.MouseOverBackColor = System.Drawing.Color.LightSteelBlue;
+            this.cmdŹ.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.cmdŹ.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdŹ.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
             this.cmdŹ.Location = new System.Drawing.Point(343, 305);
@@ -442,6 +503,8 @@
             // 
             // cmdZ
             // 
+            this.cmdZ.FlatAppearance.MouseOverBackColor = System.Drawing.Color.LightSteelBlue;
+            this.cmdZ.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.cmdZ.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdZ.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
             this.cmdZ.Location = new System.Drawing.Point(327, 305);
@@ -454,6 +517,8 @@
             // 
             // cmdY
             // 
+            this.cmdY.FlatAppearance.MouseOverBackColor = System.Drawing.Color.LightSteelBlue;
+            this.cmdY.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.cmdY.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdY.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
             this.cmdY.Location = new System.Drawing.Point(311, 305);
@@ -466,6 +531,8 @@
             // 
             // cmdX
             // 
+            this.cmdX.FlatAppearance.MouseOverBackColor = System.Drawing.Color.LightSteelBlue;
+            this.cmdX.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.cmdX.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdX.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
             this.cmdX.Location = new System.Drawing.Point(295, 305);
@@ -478,6 +545,8 @@
             // 
             // cmdW
             // 
+            this.cmdW.FlatAppearance.MouseOverBackColor = System.Drawing.Color.LightSteelBlue;
+            this.cmdW.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.cmdW.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdW.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
             this.cmdW.Location = new System.Drawing.Point(279, 305);
@@ -490,6 +559,8 @@
             // 
             // cmdŻ
             // 
+            this.cmdŻ.FlatAppearance.MouseOverBackColor = System.Drawing.Color.LightSteelBlue;
+            this.cmdŻ.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.cmdŻ.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
             this.cmdŻ.ImageAlign = System.Drawing.ContentAlignment.TopLeft;
             this.cmdŻ.Location = new System.Drawing.Point(359, 305);
@@ -520,14 +591,30 @@
             // 
             // button35
             // 
+            this.button35.FlatAppearance.MouseOverBackColor = System.Drawing.Color.LightSteelBlue;
+            this.button35.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button35.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.button35.Location = new System.Drawing.Point(384, 306);
+            this.button35.Location = new System.Drawing.Point(384, 305);
             this.button35.Name = "button35";
-            this.button35.Size = new System.Drawing.Size(99, 27);
+            this.button35.Size = new System.Drawing.Size(98, 28);
             this.button35.TabIndex = 47;
             this.button35.Text = "Jeszcze raz";
             this.button35.UseVisualStyleBackColor = true;
             this.button35.Click += new System.EventHandler(this.try_again);
+            // 
+            // button1
+            // 
+            this.button1.FlatAppearance.MouseOverBackColor = System.Drawing.Color.LightSteelBlue;
+            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button1.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.button1.ForeColor = System.Drawing.Color.Black;
+            this.button1.Location = new System.Drawing.Point(12, 305);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(89, 28);
+            this.button1.TabIndex = 48;
+            this.button1.Text = "Menu";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.GoBack);
             // 
             // frmHang
             // 
@@ -535,6 +622,8 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(128)))), ((int)(((byte)(255)))));
             this.ClientSize = new System.Drawing.Size(494, 342);
+            this.ControlBox = false;
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.button35);
             this.Controls.Add(this.lblShowWord);
             this.Controls.Add(this.lblResult);
@@ -574,6 +663,7 @@
             this.Controls.Add(this.cmdG);
             this.Controls.Add(this.cmdA);
             this.Controls.Add(this.HangImage);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Name = "frmHang";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "HangMan";
@@ -625,6 +715,7 @@
         private System.Windows.Forms.Label lblResult;
         private System.Windows.Forms.Label lblShowWord;
         private System.Windows.Forms.Button button35;
+        private System.Windows.Forms.Button button1;
     }
 }
 
