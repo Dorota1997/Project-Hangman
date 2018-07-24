@@ -2,7 +2,7 @@
 
 Menu                                              |   Gra
 :------------------------------------------------:|:------------------------------------------------:
-![error](https://github.com/Dorota1997/Project-Hangman/images/blob/master/mainmenu.png) | ![error](https://github.com/Dorota1997/Project-Hangman/images/blob/master/ingame.gif)
+![error](https://github.com/Dorota1997/Project-Hangman/blob/master/images/mainmenu.jpg) | ![error](https://github.com/Dorota1997/Project-Hangman/blob/master/images/ingame.gif)
 
 
 #### Wisielec ####
